@@ -3,7 +3,3 @@ flour
 eggs
 sugar
 milk
-carrots
-chocolate drizzle
-mayo
-peanut butter
